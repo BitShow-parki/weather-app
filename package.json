@@ -1,0 +1,21 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "for real time weather information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "-": "0.0.1",
+    "dotenv": "^9.0.0",
+    "event": "^1.0.0",
+    "global": "^4.4.0",
+    "nodemon": "^2.0.7",
+    "npm-global": "^1.0.0",
+    "requests": "^0.3.0"
+  },
+  "devDependencies": {}
+}
